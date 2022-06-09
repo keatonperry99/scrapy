@@ -33,6 +33,8 @@ you can install Scrapy and its dependencies from PyPI with::
 We strongly recommend that you install Scrapy in :ref:`a dedicated virtualenv <intro-using-virtualenv>`,
 to avoid conflicting with your system packages.
 
+Make sure that your ``pip`` package is updated to avoid any conflicts. 
+
 Note that sometimes this may require solving compilation issues for some Scrapy
 dependencies depending on your operating system, so be sure to check the
 :ref:`intro-install-platform-notes`.
